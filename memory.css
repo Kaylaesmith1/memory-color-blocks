@@ -1,0 +1,60 @@
+.container {
+  background-color: #8ea6e2;
+  margin: 35px;
+  margin-left: 132px;
+  padding: 30px;
+  max-width: 75%;
+  border-radius: 10px;
+  display: block;
+}
+
+h1 {
+  text-align: center;
+  color: #445275;
+}
+
+.card {
+  width: 100px;
+  height: 100px;
+  background: #dde7ff;
+  display: inline-block;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+.card:hover {
+  box-shadow: inset 0 0 10px #6479aa;
+}
+
+.row {
+  text-align: center;
+}
+
+#red {
+  background-color: red;
+}
+
+#orange {
+  background-color: orange;
+}
+#yellow {
+  background-color: yellow;
+}
+#green {
+  background-color: green;
+}
+#blue {
+  background-color: blue;
+}
+#teal {
+  background-color: teal;
+}
+#pink {
+  background-color: pink;
+}
+#purple {
+  background-color: purple;
+}
+
+#color-hidden {
+background-color: inherit;
