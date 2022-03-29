@@ -6,6 +6,8 @@
   max-width: 75%;
   border-radius: 10px;
   display: block;
+  border: 2px solid #445275;
+
 }
 
 h1 {
@@ -20,6 +22,7 @@ h1 {
   display: inline-block;
   border-radius: 6px;
   cursor: pointer;
+  border: 2px solid #445275;
 }
 
 .card:hover {
@@ -30,31 +33,31 @@ h1 {
   text-align: center;
 }
 
-#red {
+.red {
   background-color: red;
 }
 
-#orange {
+.orange {
   background-color: orange;
 }
-#yellow {
+.yellow {
   background-color: yellow;
 }
-#green {
+.green {
   background-color: green;
 }
-#blue {
+.blue {
   background-color: blue;
 }
-#teal {
+.teal {
   background-color: teal;
 }
-#pink {
+.pink {
   background-color: pink;
 }
-#purple {
+.purple {
   background-color: purple;
 }
 
-#color-hidden {
-background-color: inherit;
+.color-hidden {
+background-color: #dde7ff;
