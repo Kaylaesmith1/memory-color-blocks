@@ -2,6 +2,9 @@ let clickedCard = null;
 let preventClick = false;
 let combosFound = 0;
 
+
+
+
 function onClick(e) {
   //can also leave it as: e.currentTarget
   const target = e.currentTarget;
@@ -40,9 +43,7 @@ function onClick(e) {
     } else {
       combosFound++;
       clickedCard = null;
-      if (combosFound === 8) {
-        alert("YOU WIN");
-      }
+      
     }
   }
 }

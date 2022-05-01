@@ -7,7 +7,6 @@
   border-radius: 10px;
   display: block;
   border: 2px solid #445275;
-
 }
 
 h1 {
@@ -44,20 +43,21 @@ h1 {
   background-color: #f2e105;
 }
 .green {
-  background-color: #70c15e;
+  background-color: #6bd554;
 }
 .blue {
-  background-color: #2f91ca;
+  background-color: #289bdd;
 }
 .teal {
-  background-color: #0080809e;
+  background-color: #179093;
 }
 .pink {
   background-color: #d772b4;
 }
 .purple {
-  background-color: #80008047; 
+  background-color: #80008047;
 }
 
 .color-hidden {
-background-color: #dde7ff;
+  background-color: #dde7ff;
+}
