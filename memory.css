@@ -34,29 +34,29 @@ h1 {
 }
 
 .red {
-  background-color: red;
+  background-color: #c70202;
 }
 
 .orange {
-  background-color: orange;
+  background-color: #f99415;
 }
 .yellow {
-  background-color: yellow;
+  background-color: #f2e105;
 }
 .green {
-  background-color: green;
+  background-color: #70c15e;
 }
 .blue {
-  background-color: blue;
+  background-color: #2f91ca;
 }
 .teal {
-  background-color: teal;
+  background-color: #0080809e;
 }
 .pink {
-  background-color: pink;
+  background-color: #d772b4;
 }
 .purple {
-  background-color: purple;
+  background-color: #80008047; 
 }
 
 .color-hidden {
